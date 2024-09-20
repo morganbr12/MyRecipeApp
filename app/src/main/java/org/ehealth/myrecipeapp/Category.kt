@@ -7,4 +7,4 @@ data class Category(
 )
 
 
-class CategoriesRepository(var categories: List<Category>) {}
+class CategoriesResponse(var categories: List<Category>) {}
